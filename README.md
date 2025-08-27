@@ -35,6 +35,6 @@
 Для перехода в режим игры вам необходимо выполнить следующие команды в своем терминале
 ```
 git clone https://github.com/OctopusInTheKitchenSink/Tetris.git
-cd src
+cd Tetris/src
 make
 ```
